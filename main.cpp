@@ -12,16 +12,13 @@
 using namespace std;
 
 int main() {
-
 	Schedule schedule;
 
 	schedule.fileInput("input.txt");
 
-	schedule.consoleOutput();
-
 	schedule.computeSchedule();
 
-	schedule.consoleOutput();
-
 	schedule.answersOutput();
+	
+	return 1;
 }
