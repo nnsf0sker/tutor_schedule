@@ -1,5 +1,5 @@
-# tutor_schedule
- A small console app that places lessons in timetable.
+
+A small console app that places lessons in timetable.
  Маленькое консольное приложение составляющее расписание учеников.
  
  
